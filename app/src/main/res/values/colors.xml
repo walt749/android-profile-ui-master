@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEB3B</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="address">#FF9800</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#FF9800</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#FFC107</color>
+    <color name="gradStart">#FFC107</color>
+    <color name="followersBg">#FF9800</color>
+    <color name="followingBg">#FFC107</color>
+    <color name="grey">#E5E5E5</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>
